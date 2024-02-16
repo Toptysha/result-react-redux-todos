@@ -1,0 +1,22 @@
+{
+  "toDos": [
+    {
+      "id": "cecb",
+      "userName": "Karl",
+      "toDo": "New task",
+      "completed": false
+    },
+    {
+      "id": "ed60",
+      "userName": "Anton",
+      "toDo": "wash car",
+      "completed": true
+    },
+    {
+      "id": "7a33",
+      "userName": "John",
+      "toDo": "add cola",
+      "completed": false
+    }
+  ]
+}
